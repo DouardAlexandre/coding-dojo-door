@@ -2,6 +2,6 @@
 # Door dojo
 ## Projet: html css js
 
-## Auteur: Alexandre Douard
+## Auteurs: fronts team
 
 ### github page: https://douardalexandre.github.io/coding-dojo-door/
